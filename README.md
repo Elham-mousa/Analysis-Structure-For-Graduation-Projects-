@@ -5,7 +5,8 @@ As our knowledge for any product software we pass for these phases, so We'll spe
 
 <h3> how to entire to Requirments and Analysis </h3>
 
-![Web 1920 – 1](https://user-images.githubusercontent.com/55780925/145283912-867e5189-f964-4b1b-bedc-d22c6f7eecfd.png)
+![Web 1920 – 1](https://user-images.githubusercontent.com/55780925/145409212-5bea56c6-ddae-41eb-a45d-d036113d7ac8.png)
+
 
 <h5> product requirement </h5>
 what is product requirment? <br>
